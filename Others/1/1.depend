@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1644823184 source:c:\users\adi\desktop\codes\miniproject\malvika friend\1\main.cpp
+	<fstream>
+	<iostream>
+	<conio.h>
+	<stdio.h>
+	<process.h>
+	<string.h>
+	<iomanip>
+	<conio.h>
+	<bits/stdc++.h>
+	<stdio.h>
+
